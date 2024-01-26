@@ -37,6 +37,8 @@ Limitation: Tendency to overfit complex datasets, leading to poor generalization
 Tuned model accuracy: 78%.
 
 ![logistic](https://github.com/WesleyDickens/DS-Project-3/assets/8894178/09154eda-9fa5-4903-89ca-852e823b52c4)
+![download (1)](https://github.com/WesleyDickens/DS-Project-3/assets/8894178/2c9ef218-2fe5-4063-ae67-522410c00701)
+![download (2)](https://github.com/WesleyDickens/DS-Project-3/assets/8894178/2d6d1a4e-442d-4def-8f4f-47ce49e424bf)
 
 ## Evaluation
 The Logistic Regression model, post-tuning, emerged as the most effective with a prediction accuracy of 78%. 
